@@ -1,5 +1,5 @@
 import os
-proxy = 'http://user:pass@201.170.4.139:999'
+proxy = 'https://user:pass@64.235.204.107:8080'
 os.environ['http_proxy'] = proxy 
 os.environ['HTTP_PROXY'] = proxy
 os.environ['https_proxy'] = proxy
