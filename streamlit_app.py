@@ -1,5 +1,5 @@
 import os
-proxy = 'https://50.233.228.147:8080'
+proxy = '36.67.63.239:38071'
 os.system('curl ipinfo.io')
 os.environ['http_proxy'] = proxy 
 os.environ['HTTP_PROXY'] = proxy
